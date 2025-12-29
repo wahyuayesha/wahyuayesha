@@ -31,7 +31,8 @@ I value hands on projects as a way to demonstrate skills, apply theory, and prod
 
 **mobile development**
 - flutter (dart)  
-- getx  
+- getx
+- clean architecture (learning)
 
 **backend & databases**
 - flask  
