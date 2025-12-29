@@ -30,18 +30,18 @@ I value hands on projects as a way to demonstrate skills, apply theory, and prod
 ## 🖥️ technical skills
 
 **mobile development**
-- flutter (dart)  
+- flutter 
 - getx
 - clean architecture (learning)
 
 **backend & databases**
 - flask  
 - mysql 
-- sqlite (sqflite)  
+- sqflite
 
 **ai & machine learning**
 - python  
-- yolo v8 (object detection)   
+- yolo v8 object detection 
 - pandas  
 
 **tools & workflow**
