@@ -13,7 +13,7 @@ I value hands on projects as a way to demonstrate skills, apply theory, and prod
 
 ## 👤 profile summary
 
-- student software developer with a strong interest in mobile and ai driven applications  
+- software development student with a strong interest in mobile and ai driven applications  
 - experience building end to end projects from frontend to backend  
 - hands on exposure to computer vision, machine learning, and data processing  
 - familiar with clean architecture concepts and scalable application structure  
@@ -23,7 +23,7 @@ I value hands on projects as a way to demonstrate skills, apply theory, and prod
 ### 📊 data driven & ml practice projects
 
 - applied machine learning models using python  
-- data analysis and experimentation with pandas   
+- data analysis and experimentation with pandas, matplotlib and seaborn  
 
 ---
 
@@ -42,7 +42,8 @@ I value hands on projects as a way to demonstrate skills, apply theory, and prod
 **ai & machine learning**
 - python  
 - yolo v8 object detection 
-- pandas  
+- pandas
+- sklearn
 
 **tools & workflow**
 - git, github  
@@ -51,10 +52,4 @@ I value hands on projects as a way to demonstrate skills, apply theory, and prod
 
 ---
 
-## 🎯 personal goals
-
-- develop maintainable and well structured mobile applications  
-- strengthen applied knowledge in ai and computer vision  
-- build systems that integrate mobile, backend, and intelligent models  
-- continuously improve through project based learning  
 
