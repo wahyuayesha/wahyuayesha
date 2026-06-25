@@ -1,55 +1,28 @@
-# 👋 Hi, I'm M Wahyu Ayesha
+<h1 align="center">Hi, I'm M Wahyu Ayesha 👋</h1>
+<p align="center">Software Development student building <b>mobile apps</b> powered by <b>AI</b></p>
 
-![flutter](https://img.shields.io/badge/flutter-mobile%20dev-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![ai](https://img.shields.io/badge/artificial%20intelligence-learning-4B8BBE?style=for-the-badge)
-![backend](https://img.shields.io/badge/backend-flask-black?style=for-the-badge&logo=flask)
-
-a student software developer focused on building practical applications by combining  
-**mobile development** and **artificial intelligence**
-
-I value hands on projects as a way to demonstrate skills, apply theory, and produce measurable results.
-
----
-
-## 👤 profile summary
-
-- software development student with a strong interest in mobile and ai driven applications  
-- experience building end to end projects from frontend to backend  
-- hands on exposure to computer vision, machine learning, and data processing  
-- familiar with clean architecture concepts and scalable application structure  
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-Learning-4B8BBE?style=for-the-badge" />
+</p>
 
 ---
 
-### 📊 data driven & ml practice projects
+### 🎯 Focus
+Fullstack mobile development with a growing focus on integrating **AI/ML** into real world applications.
+currently deepening my skills in machine learning to bring smarter features to mobile products.
 
-- applied machine learning models using python  
-- data analysis and experimentation with pandas, matplotlib and seaborn  
+### 🛠️ Tech Stack
 
----
-
-## 🖥️ technical skills
-
-**mobile development**
-- flutter 
-- getx
-- clean architecture (learning)
-
-**backend & databases**
-- flask  
-- mysql 
-- sqflite
-
-**ai & machine learning**
-- python  
-- yolo v8 object detection 
-- pandas
-- sklearn
-
-**tools & workflow**
-- git, github  
-- postman  
-- figma 
+| Mobile | Backend | AI/ML | Tools |
+|---|---|---|---|
+| Flutter | Flask | Python | Git & GitHub |
+| GetX | MySQL | YOLOv8 | Postman |
+| Clean Architecture *(learning)* | SQflite | Pandas · Scikit-learn · Matplotlib | Figma |
 
 ---
 
-
+<p align="center"><i>Open to collaboration on mobile × AI projects </i></p>
