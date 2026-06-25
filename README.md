@@ -32,7 +32,7 @@ Currently deepening my skills in machine learning to bring smarter features to m
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/GetX-7C4DFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-learning-9E9E9E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-9E9E9E?style=flat-square" />
 </p>
 
 **Backend**
