@@ -2,11 +2,21 @@
 <p align="center">Software Development student building <b>mobile apps</b> powered by <b>AI</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-Learning-4B8BBE?style=for-the-badge" />
+  <a href="https://instagram.com/mwhyyxu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/wahyuayesha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/m-wahyu-ayesha-75393a341">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://open.spotify.com/user/31opucjke54zf6nepsagbeso37xm">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 </p>
 
 ---
