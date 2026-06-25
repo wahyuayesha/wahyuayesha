@@ -17,11 +17,11 @@ currently deepening my skills in machine learning to bring smarter features to m
 
 ### 🛠️ Tech Stack
 
-| Mobile | Backend | AI/ML | Tools |
+| Mobile | Backend | AI/ML | 
 |---|---|---|---|
-| Flutter | Flask | Python | Git & GitHub |
-| GetX | MySQL | YOLOv8 | Postman |
-| Clean Architecture *(learning)* | SQflite | Pandas · Scikit-learn · Matplotlib | Figma |
+| Flutter | Flask | Python | 
+| GetX | MySQL | YOLOv8 | 
+| Clean Architecture *(learning)* | SQflite | Pandas · Scikit-learn · Matplotlib | 
 
 ---
 
