@@ -12,17 +12,16 @@
 ---
 
 ### 🎯 Focus
-Fullstack mobile development with a growing focus on integrating **AI/ML** into real world applications.
-currently deepening my skills in machine learning to bring smarter features to mobile products.
+Fullstack mobile development with a growing focus on integrating **AI/ML** into real-world applications — currently deepening my skills in machine learning to bring smarter features to mobile products.
 
 ### 🛠️ Tech Stack
 
-| Mobile | Backend | AI/ML | 
-|---|---|---|---|
-| Flutter | Flask | Python | 
-| GetX | MySQL | YOLOv8 | 
-| Clean Architecture *(learning)* | SQflite | Pandas · Scikit-learn · Matplotlib | 
+| Mobile | Backend | AI/ML |
+|---|---|---|
+| Flutter | Flask | Python |
+| GetX | MySQL | YOLOv8 |
+| Clean Architecture *(learning)* | SQflite | Pandas · Scikit-learn · Matplotlib |
 
 ---
 
-<p align="center"><i>Open to collaboration on mobile × AI projects </i></p>
+<p align="center"><i>Open to collaboration on mobile × AI projects 🚀</i></p>
