@@ -21,11 +21,11 @@
 
 ---
 
-### 🎯 Focus
+### Focus
 Fullstack mobile development with a growing focus on integrating **AI/ML** into real-world applications. 
 Currently deepening my skills in machine learning to bring smarter features to mobile products.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Mobile**
 <p>
