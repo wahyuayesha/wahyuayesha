@@ -45,7 +45,7 @@ Fullstack mobile development with a growing focus on integrating **AI/ML** into 
 ### 🎧 Spotify
 <!-- Ganti SPOTIFY_USERNAME dengan username Spotify kamu setelah authorize di https://spotify-recently-played-readme.vercel.app/ -->
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31opucjke54zf6nepsagbeso37xm" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31opucjke54zf6nepsagbeso37xm&count=1" />
 </p>
 
 ---
