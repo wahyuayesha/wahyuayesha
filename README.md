@@ -30,6 +30,7 @@ Currently deepening my skills in machine learning to bring smarter features to m
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQflite-02569B?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
 **AI/ML**
@@ -43,6 +44,7 @@ Currently deepening my skills in machine learning to bring smarter features to m
 
 ---
 
+<p align="center"><code>if (stuck) { play_music(); debug(); } // works every time</code></p>
 <!-- Ganti SPOTIFY_USERNAME dengan username Spotify kamu setelah authorize di https://spotify-recently-played-readme.vercel.app/ -->
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31opucjke54zf6nepsagbeso37xm&count=1" />
