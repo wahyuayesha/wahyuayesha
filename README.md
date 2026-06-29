@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm M Wahyu Ayesha 👋</h1>
-<p align="center">Software Development student building <b>mobile apps</b> powered by <b>AI</b></p>
+<p align="center">Software Development student that coding mobile apps and occasionally making AI do cool things</p>
 
 <p align="center">
   <a href="https://instagram.com/mwhyyxu">
@@ -22,7 +22,7 @@
 ---
 
 ### Focus
-Fullstack mobile development with a growing focus on integrating **AI/ML** into real-world applications. 
+Fullstack flutter mobile development with a growing focus on integrating **AI/ML** into real-world applications. 
 Currently deepening my skills in machine learning to bring smarter features to mobile products.
 
 ### Tech Stack
