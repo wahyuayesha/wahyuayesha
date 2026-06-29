@@ -25,6 +25,8 @@
 Fullstack flutter mobile development with a growing focus on integrating **AI/ML** into real-world applications. 
 Currently deepening my skills in machine learning to bring smarter features to mobile products.
 
+📌 Curious what I've been working on? Take a look at my pinned apps below.
+
 ### Tech Stack
 
 **Mobile**
