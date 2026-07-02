@@ -46,7 +46,7 @@ Currently deepening my skills in machine learning to bring smarter features to m
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
-**AI/ML**
+**AI/ML and Data Science**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square" />
