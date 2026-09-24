@@ -57,7 +57,7 @@ Currently deepening my skills in machine learning to bring smarter features to m
 
 ---
 
-<p align="center"><code>if (stuck) { play_music(); debug(); } // works every time</code></p>
+<p align="center"><code>if (stuck) { play_music(); debug(); } // it works sometimes</code></p>
 <!-- Ganti SPOTIFY_USERNAME dengan username Spotify kamu setelah authorize di https://spotify-recently-played-readme.vercel.app/ -->
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31opucjke54zf6nepsagbeso37xm&count=1" />
