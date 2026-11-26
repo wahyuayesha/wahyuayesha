@@ -19,10 +19,12 @@
   </a>
 </p>
 
-<a href="https://um.ac.id/">
-  <img src="https://um.ac.id/wp-content/uploads/2019/03/Lambang-UM.png" width="22"/>
-</a>
-<p align="center">Informatics Engineering Student at Universitas Negeri Malang</p>
+<p align="center">
+  <a href="https://um.ac.id/">
+    <img src="https://um.ac.id/wp-content/uploads/2019/03/Lambang-UM.png" width="22" valign="middle"/>
+  </a>
+  <b>Informatics Engineering Student at Universitas Negeri Malang</b>
+</p>
 
 ---
 
