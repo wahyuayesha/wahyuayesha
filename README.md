@@ -19,9 +19,7 @@
   </a>
 </p>
 
-![University](https://img.shields.io/badge/University-Universitas%20Negeri%20Malang-blue?style=for-the-badge)
-![Major](https://img.shields.io/badge/Major-Informatics%20Engineering-orange?style=for-the-badge)
-![Degree](https://img.shields.io/badge/Degree-Bachelor's%20Degree-green?style=for-the-badge)
+![UM](https://img.shields.io/badge/UM-Universitas%20Negeri%20Malang-0055A4?style=for-the-badge&logoColor=white)
 <p align="center">Informatics Engineering Student at Universitas Negeri Malang</p>
 
 ---
