@@ -22,7 +22,6 @@
 <a href="https://um.ac.id/">
   <img src="https://um.ac.id/wp-content/uploads/2019/03/Lambang-UM.png" width="22"/>
 </a>
-<img src="https://img.shields.io/badge/Universitas-Universitas%20Negeri%20Malang-0055A4?style=for-the-badge"/>
 <p align="center">Informatics Engineering Student at Universitas Negeri Malang</p>
 
 ---
