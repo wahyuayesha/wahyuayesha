@@ -19,6 +19,7 @@
   </a>
 </p>
 
+<p align="center">Informatics Engineering Student at Universitas Negeri Malang</p>
 ---
 
 ### Focus
