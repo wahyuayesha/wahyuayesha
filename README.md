@@ -19,7 +19,7 @@
   </a>
 </p>
 
-[![Universitas Negeri Malang](URL_LOGO_UM)](https://um.ac.id/)
+[![Universitas Negeri Malang](https://img.shields.io/badge/Universitas-Universitas%20Negeri%20Malang-0055A4?style=for-the-badge)](https://um.ac.id/)
 <p align="center">Informatics Engineering Student at Universitas Negeri Malang</p>
 
 ---
