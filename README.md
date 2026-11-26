@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <b>💻 Informatics Engineering</b>
+  <b>💻 Informatics Engineering  </b>
   <a href="https://um.ac.id/">
     <img src="https://um.ac.id/wp-content/uploads/2019/03/Lambang-UM.png" width="22" valign="middle"/>
   </a>
